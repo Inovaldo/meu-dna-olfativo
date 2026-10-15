@@ -1,0 +1,4357 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-15",
+  "method": "Curadoria de 150 perfumes de 30 marcas. Pesos editoriais de 0 a 3 baseados em descrições públicas: não são medidas das marcas, concentração de ingredientes ou estatística de vendas. Sem verificação de estoque local.",
+  "perfumes": [
+    {
+      "id": "perfume-001",
+      "brand": "Chanel",
+      "name": "Coco Mademoiselle",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Laranja, flores e fundo amadeirado ambarado",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "COCO MADEMOISELLE Eau de Parfum Spray - 3.4 fl. oz. | CHANEL",
+          "url": "https://www.chanel.com/us/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-002",
+      "brand": "Chanel",
+      "name": "Bleu de Chanel",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Madeiras, ervas e calor ambarado",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 2,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "BLEU DE CHANEL EAU DE PARFUM VAPORISATEUR - 100 ml | CHANEL",
+          "url": "https://www.chanel.com/fr/parfums/p/107360/bleu-de-chanel-eau-de-parfum-vaporisateur/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-003",
+      "brand": "Chanel",
+      "name": "N°5",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Buquê floral, toque de talco e fundo quente",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 1,
+        "Almiscarado": 2,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "N°5 EAU DE PARFUM VAPORISATEUR - 35 ml | CHANEL",
+          "url": "https://www.chanel.com/fr/parfums/p/125230/n5-eau-de-parfum-vaporisateur/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-004",
+      "brand": "Chanel",
+      "name": "Chance Eau Tendre",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores delicadas, frutas e maciez de limpeza",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "CHANCE EAU TENDRE Eau de Parfum Spray (EDP) - 1.7 FL. OZ. | CHANEL",
+          "url": "https://www.chanel.com/us/fragrance/p/126250/chance-eau-tendre-eau-de-parfum-spray/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-005",
+      "brand": "Chanel",
+      "name": "Allure Homme Sport",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos frescos, cedro e maciez limpa",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 1,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "ALLURE HOMME SPORT EAU DE TOILETTE VAPORISATEUR - 100 ml | CHANEL",
+          "url": "https://www.chanel.com/fr/parfums/p/123630/allure-homme-sport-eau-de-toilette-vaporisateur/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-006",
+      "brand": "Dior",
+      "name": "Sauvage",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Cítricos, especiarias e baunilha quente",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Sauvage Eau de Parfum: Citrus Vanilla Fragrance - Refillable | Dior US",
+          "url": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-E000000376.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-007",
+      "brand": "Dior",
+      "name": "J'adore",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas e rosas com leve frescor frutado",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "J'adore Eau de Parfum : le parfum pour femme iconique | DIOR FR",
+          "url": "https://www.dior.com/fr_fr/beauty/products/jadore-eau-de-parfum-Y0715201.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-008",
+      "brand": "Dior",
+      "name": "Miss Dior",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa, baunilha cremosa e madeira macia",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Miss Dior Eau de Parfum: floral, vanilla, and sensual notes | Dior US",
+          "url": "https://www.dior.com/en_us/beauty/products/miss-dior-eau-de-parfum-E000001556.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-009",
+      "brand": "Dior",
+      "name": "Dior Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeira seca, raízes e frescor discreto",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 2
+      },
+      "sources": [
+        {
+          "title": "Dior Homme, eau de toilette pour homme entre force & sensualité | DIOR FR",
+          "url": "https://www.dior.com/fr_fr/beauty/products/dior-homme-Y0996157.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-010",
+      "brand": "Dior",
+      "name": "Hypnotic Poison",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Amêndoas, baunilha e flores envolventes",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Dior Hypnotic Poison: Vanilla Sensual Eau de Toilette | Dior US",
+          "url": "https://www.dior.com/en_us/beauty/products/hypnotic-poison-eau-de-toilette-F006341009.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-011",
+      "brand": "Yves Saint Laurent",
+      "name": "Libre",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, lavanda e baunilha",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Libre Eau De Parfum Women's Perfume — Perfume — YSL Beauty",
+          "url": "https://www.yslbeautyus.com/fragrance/womens-fragrances/libre/libre-eau-de-parfum/109YSL.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-012",
+      "brand": "Yves Saint Laurent",
+      "name": "Black Opium",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Café, baunilha e flores brancas",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Black Opium Eau de Parfum - Women’s Perfume - YSL Beauty",
+          "url": "https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/black-opium-eau-de-parfum/252YSL.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-013",
+      "brand": "Yves Saint Laurent",
+      "name": "Y",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Ervas, madeira e frescor frutado",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Y Eau de Parfum Men's Refillable Cologne — Fragrance — YSL Beauty",
+          "url": "https://www.yslbeautyus.com/fragrance/mens-fragrance/y/y-eau-de-parfum/727YSL.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-014",
+      "brand": "Yves Saint Laurent",
+      "name": "La Nuit de L'Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Especiarias macias, madeira e toque floral",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 3,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Luxury Cologne - La Nuit De L'Homme Eau de Toilette | YSL",
+          "url": "https://www.yslbeautyus.com/fragrance/mens-fragrances/la-nuit-de-lhomme/la-nuit-de-lhomme-eau-de-toilette-spray/3365440328624.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-015",
+      "brand": "Yves Saint Laurent",
+      "name": "Mon Paris",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Frutas vermelhas, flores e fundo amadeirado",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Mon Paris Eau de Parfum - Floral Women’s Perfume - YSL Beauty",
+          "url": "https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/4150YSL.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-016",
+      "brand": "Giorgio Armani",
+      "name": "Acqua di Giò",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Brisa marinha, cítricos e ervas",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 3,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Acqua Di Giò Eau de Toilette Men's Cologne - Armani Beauty",
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/mens-cologne/acqua-di-gio/acqua-di-gio-eau-de-toilette/A005.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-017",
+      "brand": "Giorgio Armani",
+      "name": "Acqua di Giò Profondo",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Mar, ervas frescas e madeira",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 3,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Acqua di Giò Profondo Eau de Parfum Cologne - Armani Beauty",
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/mens-cologne/acqua-di-gio/acqua-di-gio-profondo-eau-de-parfum/A2267.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-018",
+      "brand": "Giorgio Armani",
+      "name": "Armani Code",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos suaves e fundo amadeirado quente",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Armani Code Eau de Toilette — Cologne— Armani Beauty",
+          "url": "https://www.giorgioarmanibeauty-usa.com/armani-navigation/armani-code-homme-edt-v30ml-24/3614274298017.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-019",
+      "brand": "Giorgio Armani",
+      "name": "Sì",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Frutas escuras, flores e baunilha",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Sì Eau de Parfum Women's Perfume — Fragrance — Armani Beauty",
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/womens-perfume/si/si-eau-de-parfum/A218.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-020",
+      "brand": "Giorgio Armani",
+      "name": "My Way",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, cítricos e madeira suave",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "My Way Eau De Parfum - Women's Floral Perfume - Armani Beauty",
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances-womens-fragrances-perfume-my-way-my-way-eau-de-parfum-the-new-feminine-fragrance/3614273875752.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-021",
+      "brand": "Lancôme",
+      "name": "La Vie Est Belle",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Doçura de confeitaria, flores e fundo terroso",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "La Vie Est Belle Eau De Parfum - Women's Perfume - Lancôme",
+          "url": "https://www.lancome-usa.com/fragrance/fragrance-by-collection/la-vie-est-belle/la-vie-est-belle-eau-de-parfum/3605532612768.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-022",
+      "brand": "Lancôme",
+      "name": "Idôle",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosas, flores brancas e limpeza macia",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Idôle Eau de Parfum - Floral & Fresh Fragrance - Lancôme",
+          "url": "https://www.lancome-usa.com/fragrance/idole-eau-de-parfum/LAN387.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-023",
+      "brand": "Lancôme",
+      "name": "Trésor",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa, frutas macias e baunilha ambarada",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Trésor Eau de Parfum - Elegant Rose & Delicate Fruit - Lancôme",
+          "url": "https://www.lancome-usa.com/fragrance/collection/tresor/tresor/072025.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-024",
+      "brand": "Lancôme",
+      "name": "Miracle",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores frescas, frutas e toque de especiarias",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Miracle Eau de Parfum - Perfume and Fragrance by Lancome",
+          "url": "https://www.lancome-usa.com/fragrance/fragrance-by-collection/miracle/miracle-eau-de-parfum/022055.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-025",
+      "brand": "Lancôme",
+      "name": "La Nuit Trésor",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha doce, frutas e rosa escura",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "La Nuit Trésor Eau De Parfum with Black Rose - Lancôme",
+          "url": "https://www.lancome-usa.com/fragrance/by-collection/tresor/la-nuit-tresor/102607.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-026",
+      "brand": "Guerlain",
+      "name": "Shalimar",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha ambarada, flores e cítricos",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Shalimar ⋅ Eau De Parfum ⋅ GUERLAIN",
+          "url": "https://www.guerlain.com/uk/en-uk/p/shalimar-eau-de-parfum-G011354.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-027",
+      "brand": "Guerlain",
+      "name": "Mon Guerlain",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha, lavanda, madeira e flores",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Mon Guerlain ⋅ Eau De Parfum ⋅ GUERLAIN",
+          "url": "https://www.guerlain.com/fr/fr-fr/p/mon-guerlain-eau-de-parfum-G013140.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-028",
+      "brand": "Guerlain",
+      "name": "La Petite Robe Noire",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Cereja doce, rosa e toque de chá",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "La Petite Robe Noire ⋅ Eau De Parfum ⋅ GUERLAIN",
+          "url": "https://www.guerlain.com/fr/fr-fr/p/la-petite-robe-noire-eau-de-parfum-G011469.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-029",
+      "brand": "Guerlain",
+      "name": "Habit Rouge",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos, baunilha e madeira quente",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Habit Rouge De Guerlain Paris ⋅ Eau De Toilette ⋅ GUERLAIN",
+          "url": "https://www.guerlain.com/fr/fr-fr/p/habit-rouge-de-guerlain-paris-eau-de-toilette-P030482.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-030",
+      "brand": "Guerlain",
+      "name": "Vétiver",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Raízes secas, madeira e cítricos",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 3
+      },
+      "sources": [
+        {
+          "title": "Vétiver De Guerlain Paris ⋅ Eau De Toilette ⋅ GUERLAIN",
+          "url": "https://www.guerlain.com/us/en-us/p/vetiver-eau-de-toilette-G030486.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-031",
+      "brand": "Carolina Herrera",
+      "name": "Good Girl",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas com doçura de amêndoas e cacau",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Good Girl Eau de Parfum 2.7 fl oz | Carolina Herrera US",
+          "url": "https://www.carolinaherrera.com/us/en/p-fragrance/good-girl-eau-de-parfum?sku=000000000065176159",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-032",
+      "brand": "Carolina Herrera",
+      "name": "Very Good Girl",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Frutas vermelhas, rosa e baunilha suave",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Very Good Girl Eau de Parfum 1 fl oz | Carolina Herrera US",
+          "url": "https://www.carolinaherrera.com/us/en/p-fragrance/very-good-girl?sku=000000000065182260",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-033",
+      "brand": "Carolina Herrera",
+      "name": "212 NYC  (feminino)",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Flores frescas e maciez limpa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "212 NYC Eau de Toilette 3.4 fl oz | Carolina Herrera US",
+          "url": "https://www.carolinaherrera.com/us/en/p-fragrance/212-nyc?sku=000000000065200068",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-034",
+      "brand": "Carolina Herrera",
+      "name": "212 VIP Rosé",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Frutas, flores e fundo macio",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "212 VIP Rosé Eau de Parfum 4.2 fl oz | Carolina Herrera US",
+          "url": "https://www.carolinaherrera.com/us/en/p-fragrance/212-vip-rose?sku=000000000065111260",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-035",
+      "brand": "Carolina Herrera",
+      "name": "Bad Boy",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Especiarias, cacau e fundo ambarado",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 3,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "BAD BOY EAU DE TOILETTE – PRODUCT INFORMATION – BAD BOY Press site I CAROLINA HERRERA",
+          "url": "https://badboy-press.carolinaherrera.com/bad-boy-eau-de-toilette-product-information/index.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-036",
+      "brand": "Rabanne",
+      "name": "1 Million",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Especiarias doces, cítricos e madeira quente",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 3,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "1 Million Eau de Toilette | Fragrance for Men | Rabanne",
+          "url": "https://www.rabanne.com/ww/en/fragrance/p/1-million--000000000065051844",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-037",
+      "brand": "Rabanne",
+      "name": "Invictus",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Mar, cítricos e frescor aromático",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 3,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Invictus by Rabanne: the story behind the collection | Rabanne EN",
+          "url": "https://www.rabanne.com/ww/en/the-rabanne-edition/article/fragrance/the-story-of-invictus",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-038",
+      "brand": "Rabanne",
+      "name": "Lady Million",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, mel e frutas",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Lady Million | Women's Cologne & Perfume | Rabanne USA",
+          "url": "https://www.rabanne.com/us/en_US/fragrance/c/frag-women-ladymillion",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-039",
+      "brand": "Rabanne",
+      "name": "Olympéa",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha salgada com flores e calor ambarado",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 1,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Olympéa | Eau de Parfum | Rabanne France",
+          "url": "https://www.rabanne.com/fr/fr/fragrance/p/olympea--000000000065187751",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-040",
+      "brand": "Rabanne",
+      "name": "Fame",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Fruta tropical, flores e madeira cremosa",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Fame | Eau de Parfum | Rabanne USA",
+          "url": "https://www.rabanne.com/us/en_US/fragrance/p/fame--000000000065170086",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-041",
+      "brand": "Jean Paul Gaultier",
+      "name": "Le Male",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Lavanda, hortelã e baunilha macia",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Le Male Eau de Toilette ⋅ Jean Paul Gaultier",
+          "url": "https://www.jeanpaulgaultier.com/ww/en/fragrances/range-le-male/le-male-eau-de-toilette",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-042",
+      "brand": "Jean Paul Gaultier",
+      "name": "Ultra Male",
+      "concentration": "Eau de Toilette Intense",
+      "profileSummary": "Pera doce, baunilha e frescor de lavanda",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Ultra Male Eau de Toilette Intense ⋅ Jean Paul Gaultier US",
+          "url": "https://www.jeanpaulgaultier.com/us/en_US/p/range-le-male/ultra-male-eau-de-toilette-intense-000000000065127311",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-043",
+      "brand": "Jean Paul Gaultier",
+      "name": "Le Beau",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Coco, madeira macia e cítricos",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Le Beau Eau de Toilette ⋅ Jean Paul Gaultier US",
+          "url": "https://www.jeanpaulgaultier.com/us/en_US/p/range-le-beau/le-beau-eau-de-toilette-000000000065241559",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-044",
+      "brand": "Jean Paul Gaultier",
+      "name": "Scandal  (feminino)",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Mel intenso, flores brancas e fundo terroso",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Scandal Eau de Parfum ⋅ Jean Paul Gaultier UK",
+          "url": "https://www.jeanpaulgaultier.com/uk/en/p/range-scandal/scandal-eau-de-parfum-000000000065170017",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-045",
+      "brand": "Jean Paul Gaultier",
+      "name": "Classique",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Flores brancas, gengibre e baunilha quente",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Classique 3.4 oz, Body Lotion 2.5 oz and Travel Spray Gift Set ⋅ Jean Paul Gaultier US",
+          "url": "https://www.jeanpaulgaultier.com/us/en_US/p/range-classique/classique-3-4-oz-body-lotion-2-5-oz-and-travel-spray-gift-set-000000000065247278",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-046",
+      "brand": "Versace",
+      "name": "Eros",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Hortelã, cítricos e baunilha amadeirada",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Eros EDT 100 ml Blue | VERSACE US",
+          "url": "https://www.versace.com/us/en/men/accessories/fragrances-body-care/eros/eros-edt-100-ml-blue/R740010-R100MLS_RNUL.html?dwvar_R740010-R100MLS__RNUL_color=RNUL",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-047",
+      "brand": "Versace",
+      "name": "Dylan Blue Pour Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Ervas, água fresca e fundo amadeirado",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 2,
+        "Aromático": 3,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Eau de toilette Dylan Blue Pour Homme 100 ml Bleu | VERSACE FR",
+          "url": "https://www.versace.com/fr/fr/homme/accessoires/parfums-et-soins-du-corps/dylan-blue-pour-homme/eau-de-toilette-dylan-blue-pour-homme-100%C2%A0ml/R721010-R100MLS_RNUL.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-048",
+      "brand": "Versace",
+      "name": "Pour Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos mediterrâneos, ervas e maciez limpa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 1,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Pour Homme",
+          "url": "https://www.versace.com/us/en/pour-homme/SET_Fragrances_PourHomme.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-049",
+      "brand": "Versace",
+      "name": "Bright Crystal",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Flores delicadas, frutas e frescor aquoso",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 1,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Bright Crystal EDT 200 ml Pink | VERSACE US",
+          "url": "https://www.versace.com/us/en/bright-crystal-edt-200-ml/R510036-R200MLS.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-050",
+      "brand": "Versace",
+      "name": "Crystal Noir",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Flores escuras, especiarias e madeira quente",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Crystal Noir EDT 50 ml Noir | VERSACE FR",
+          "url": "https://www.versace.com/fr/fr/femme/accessoires/parfums-et-soins-du-corps/crystal-noir/crystal-noir-edt-50%C2%A0ml/R07126-R050MLS_RNUL.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-051",
+      "brand": "Dolce&Gabbana",
+      "name": "Light Blue (feminino)",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Limão, maçã e madeira clara",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Dolce&Gabbana Light Blue: the new Eaux de Parfum",
+          "url": "https://world.dolcegabbana.com/beauty/dolce-gabbana-light-blue-vittoria-ceretti-theo-james-fragrances-man-woman-2025",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-052",
+      "brand": "Dolce&Gabbana",
+      "name": "Light Blue Pour Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos, brisa marinha e ervas",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 2,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Dolce&Gabbana Light Blue: the new Eaux de Parfum",
+          "url": "https://world.dolcegabbana.com/beauty/dolce-gabbana-light-blue-vittoria-ceretti-theo-james-fragrances-man-woman-2025",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-053",
+      "brand": "Dolce&Gabbana",
+      "name": "The One (feminino)",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores, frutas macias e baunilha quente",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Dolce&Gabbana Eau de Parfum for Women | DG® US",
+          "url": "https://www.dolcegabbana.com/en-us/beauty/perfumes-for-her/the-one/eau-de-parfum---158057971180486.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-054",
+      "brand": "Dolce&Gabbana",
+      "name": "The One for Men",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Madeiras, especiarias e calor de tabaco",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "The one Dolce&Gabbana® men's perfume | DG® Beauty",
+          "url": "https://www.dolcegabbana.com/en-ch/beauty/perfumes-for-him/the-one-for-men/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-055",
+      "brand": "Dolce&Gabbana",
+      "name": "Devotion",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Limão açucarado, flores brancas e baunilha",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Dolce&Gabbana Devotion Eau de Parfum | DG® US",
+          "url": "https://www.dolcegabbana.com/en-us/beauty/perfumes-for-her/devotion/devotion-eau-de-parfum---VT014LVT0009V000.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-056",
+      "brand": "Prada",
+      "name": "L'Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Flores atalcadas, limpeza macia e âmbar",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Prada L'Homme Eau de Toilette | Prada Beauty Official Site",
+          "url": "https://www.prada-beauty.com/fragrance/lhomme-prada/lhomme-prada-eau-de-toilette/MPL01352.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-057",
+      "brand": "Prada",
+      "name": "Luna Rossa Carbon",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Lavanda, madeira e frescor mineral",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Luna Rossa Carbon Cologne | Prada Beauty Official Site",
+          "url": "https://www.prada-beauty.com/fragrance/luna-rossa/luna-rossa-carbon-eau-de-toilette/MPL01367.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-058",
+      "brand": "Prada",
+      "name": "Luna Rossa Ocean",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Ervas frescas, flores e madeira limpa",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Prada Luna Rossa Ocean, Eau de toilette | Prada Beauty Official site",
+          "url": "https://www.prada-beauty.com/hidden/luna-rossa-ocean-eau-de-toilette/3614273556613.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-059",
+      "brand": "Prada",
+      "name": "Paradoxe",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, âmbar e fundo macio",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 2,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Prada Paradoxe fragrance, new perfume for women | Prada Beauty Official site",
+          "url": "https://www.prada-beauty.com/fragrance/paradoxe-eau-de-parfum/MPL01610.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-060",
+      "brand": "Prada",
+      "name": "Candy",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Caramelo, baunilha e maciez ambarada",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Prada Candy Eau de Parfum | Prada Beauty Official Site",
+          "url": "https://www.prada-beauty.com/fragrance/candy/candy-eau-de-parfum/8435137727094.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-061",
+      "brand": "Valentino",
+      "name": "Donna Born in Roma",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, baunilha e madeira",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Donna Born in Roma Eau de Parfum | Valentino Beauty",
+          "url": "https://www.valentino-beauty.us/fragrances/fragrances-women/fragrances-women-born-in-roma/donna-born-in-roma-eau-de-parfum-MPL00468.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-062",
+      "brand": "Valentino",
+      "name": "Uomo Born in Roma",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeira, ervas, gengibre e toque mineral",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 1,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Uomo Born in Roma Eau de Toilette | Valentino Beauty",
+          "url": "https://www.valentino-beauty.us/fragrances/fragrances-men/fragrances-men-born-in-roma/born-in-roma-uomo-eau-de-toilette-3614274632811.html?geo=false",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-063",
+      "brand": "Valentino",
+      "name": "Voce Viva",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, cítricos e baunilha",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Voce Viva Eau De Parfum Women’s Perfume | Valentino Beauty",
+          "url": "https://www.valentino-beauty.us/fragrances/fragrances-women/fragrances-women-voce/voce-viva-eau-de-parfum-3614273073875.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-064",
+      "brand": "Valentino",
+      "name": "Donna",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa e flores atalcadas com fundo quente",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Shop For Valentino Donna Eau de Parfum | Valentino Beauty",
+          "url": "https://www.valentino-beauty.us/fragrances/fragrances-women/fragrances-women-donna/valentino-donna-eau-de-parfum-MPL00462.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-065",
+      "brand": "Valentino",
+      "name": "Uomo",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeiras, flores macias e calor suave",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "DISCOVER VALENTINO UOMO EAU DE TOILETTE | Valentino Beauty",
+          "url": "https://www.valentino-beauty.us/discontinued/valentino-uomo-eau-de-toilette-MPL00469.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-066",
+      "brand": "Gucci",
+      "name": "Bloom",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas intensas e frescor de jardim",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Gucci Bloom for Her Eau de Parfum 50ml - Boots",
+          "url": "https://www.boots.com/gucci/gucci-icons/gucci-bloom-eau-de-parfum-spray-50ml-10230935",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-067",
+      "brand": "Gucci",
+      "name": "Flora Gorgeous Gardenia",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, pera e doçura delicada",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Gucci Flora Gorgeous Gardenia, 50ml, eau de parfum in gardenia and jasmine | GUCCI® US",
+          "url": "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-women/gucci-flora-gorgeous-gardenia-50ml-eau-de-parfum-p-667586999990099",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-068",
+      "brand": "Gucci",
+      "name": "Flora Gorgeous Jasmine",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Jasmim, cítricos e madeira macia",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Gucci Flora Gorgeous Jasmine, 100ml, eau de parfum in Eau de Parfum | GUCCI® US",
+          "url": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/gucci-flora-gorgeous-jasmine-100ml-eau-de-parfum-p-701224999990099",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-069",
+      "brand": "Gucci",
+      "name": "Guilty Pour Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Lavanda, limão e fundo amadeirado",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Gucci Guilty Pour Homme, 90ml eau de toilette in eau de toilette | GUCCI® US",
+          "url": "https://www.gucci.com/us/en/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-pour-homme-90ml-eau-de-toilette-p-563057999990099",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-070",
+      "brand": "Gucci",
+      "name": "Guilty Pour Femme",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores, frutas cítricas e calor terroso",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Gucci Guilty Pour Femme, 90 ml, eau de parfum en eau de parfum | GUCCI® FR",
+          "url": "https://www.gucci.com/fr/fr/pr/beauty/fragrances/fragrances-for-women/gucci-guilty/gucci-guilty-pour-femme-90ml-eau-de-parfum-p-563241999990099",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-071",
+      "brand": "Burberry",
+      "name": "Her",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Frutas vermelhas, flores e fundo macio",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 1,
+        "Almiscarado": 1,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Burberry Her | Burberry®️ Official",
+          "url": "https://us.burberry.com/c/burberry-her/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-072",
+      "brand": "Burberry",
+      "name": "Goddess",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha em destaque com lavanda",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Burberry Goddess | Burberry®",
+          "url": "https://int.burberry.com/c/burberry-goddess/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-073",
+      "brand": "Burberry",
+      "name": "Brit for Her",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Frutas, amêndoas doces e madeira quente",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Burberry Brit For Her Eau de Parfum 100mlWhite - Women | Burberry® Official",
+          "url": "https://us.burberry.com/burberry-brit-for-her-eau-de-parfum-100ml-p34547181",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-074",
+      "brand": "Burberry",
+      "name": "London for Women",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas com toque frutado e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Burberry London Eau de Parfum 100mlWhite - Women | Burberry® Official",
+          "url": "https://uk.burberry.com/burberry-london-eau-de-parfum-100ml-p34547261",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-075",
+      "brand": "Burberry",
+      "name": "Hero",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cedro, cítricos e especiarias secas",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Burberry Hero eau de toilette 10ml - Boots",
+          "url": "https://www.boots.com/burberry-hero-eau-de-toilette-10ml-10395163",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-076",
+      "brand": "Hugo Boss",
+      "name": "Boss Bottled",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Maçã, especiarias e madeira quente",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "BOSS - BOSS Bottled eau de toilette 30ml - 30 ml",
+          "url": "https://www.hugoboss.com/boss-bottled-eau-de-toilette-30ml/hbeu58000079_999.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-077",
+      "brand": "Hugo Boss",
+      "name": "Boss The Scent",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Gengibre, fruta e fundo quente amadeirado",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "BOSS - BOSS The Scent eau de toilette 100 ml – 3.4 fl oz",
+          "url": "https://www.hugoboss.com/us/boss-the-scent-eau-de-toilette-100-ml-%E2%80%93-3.4-fl-oz/hbna58228609_999.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-078",
+      "brand": "Hugo Boss",
+      "name": "Hugo Man",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Maçã verde, ervas frescas e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 3,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Eau de Toilette | HUGO BOSS",
+          "url": "https://www.hugoboss.com/nl/v/eau-de-toilette",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-079",
+      "brand": "Hugo Boss",
+      "name": "Boss Alive",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha, frutas e madeira cremosa",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "BOSS - BOSS Alive eau de parfum 50ml - 50 ml",
+          "url": "https://www.hugoboss.com/boss-alive-eau-de-parfum-50ml/hbeu58121789_999.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-080",
+      "brand": "Hugo Boss",
+      "name": "Boss Bottled Night",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeiras, folhas e frescor aromático",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "BOSS Bottled Night Eau de Toilette for Men 200ml - Boots",
+          "url": "https://www.boots.com/hugo-boss-bottled-night-eau-de-toilette-200ml-10132493",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-081",
+      "brand": "Calvin Klein",
+      "name": "CK One",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos leves, ervas e flores limpas",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 3,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "ck one | Calvin Klein",
+          "url": "https://www.calvinklein.us/en/women/fragrance/fragrance/ck-one/10740-000.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-082",
+      "brand": "Calvin Klein",
+      "name": "CK Be",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Limpeza macia, ervas e cítricos suaves",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 3,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Calvin Klein CK Be Eau de Toilette Unisex 200ml - Boots",
+          "url": "https://www.boots.com/calvin-klein/all-calvin-klein-fragrances/calvin-klein-ck-be-eau-de-toilette-unisex-200ml-10356691",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-083",
+      "brand": "Calvin Klein",
+      "name": "Eternity for Women",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores verdes e maciez limpa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 2,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Eternity Eau De Parfum For Women | Calvin Klein",
+          "url": "https://www.calvinklein.us/en/women/fragrance/fragrance/eternity-eau-de-parfum-for-women/LX000744-000.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-084",
+      "brand": "Calvin Klein",
+      "name": "Eternity for Men",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Ervas, folhas verdes e madeira",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 2,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Calvin Klein Eternity for Men Eau de Toilette 100ml - Boots",
+          "url": "https://www.boots.com/calvin-klein-eternity-for-men-eau-de-toilette-spray-100ml-10012028",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-085",
+      "brand": "Calvin Klein",
+      "name": "Euphoria for Women",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores escuras, frutas e madeira cremosa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Calvin Klein Euphoria for Women Eau de Parfum 100ml - Boots",
+          "url": "https://www.boots.com/calvin-klein-euphoria-eau-de-parfum-100ml-10048612",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-086",
+      "brand": "Issey Miyake",
+      "name": "L'Eau d'Issey",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Flores brancas, água fresca e madeira suave",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 3,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "L'Eau Issey Miyake Femme | Eau de Toilette | Issey Miyake",
+          "url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l-eau-d-issey-eau-de-toilette-EI_EDT.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-087",
+      "brand": "Issey Miyake",
+      "name": "L'Eau d'Issey Pour Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos luminosos, frescor aquoso e madeira",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 2,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "L’eau d’Issey pour Homme | Eau de Toilette | Issey Miyake",
+          "url": "https://www.isseymiyakeparfums.com/fr/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-eau-de-toilette-3423470311358.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-088",
+      "brand": "Issey Miyake",
+      "name": "A Drop d'Issey",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores macias com cremosidade e limpeza",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Issey Miyake a drop d'Issey | Eau de Parfum",
+          "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-a-drop-d-issey-eau-de-parfum-DROP_PARFUM.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-089",
+      "brand": "Issey Miyake",
+      "name": "Fusion d'Issey",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Limão, coco e madeiras quentes",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 1,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Fusion d'Issey | Eau de Toilette | Issey Miyake",
+          "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-fusion-d-issey-eau-de-toilette-FUSION.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-090",
+      "brand": "Issey Miyake",
+      "name": "Nuit d'Issey",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeira escura, raízes e calor ambarado",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 2
+      },
+      "sources": [
+        {
+          "title": "Issey Miyake Nuit d'Issey Eau de Toilette 75ml - Boots",
+          "url": "https://www.boots.com/issey-miyake-nuit-dissey-eau-de-toilette-75ml-10180325",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-091",
+      "brand": "Narciso Rodriguez",
+      "name": "For Her",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Maciez de pele limpa, flores e âmbar",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 1,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Narciso Rodriguez Black For Her Eau de Toilette",
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her/for-her-edt.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-092",
+      "brand": "Narciso Rodriguez",
+      "name": "For Her",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa, fruta macia e fundo de pele limpa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Narciso Rodriguez for Her Eau de Parfum",
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her/for-her-edp.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-093",
+      "brand": "Narciso Rodriguez",
+      "name": "For Her Pure Musc",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Limpeza macia, flores brancas e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Narciso Rodriguez Pure Musc for Her Eau de Parfum",
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her-pure-musc/for-her-PURE-MUSC.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-094",
+      "brand": "Narciso Rodriguez",
+      "name": "Musc Noir Rose For Her",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores cremosas, ameixa, baunilha e maciez",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 1,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Musc Noir Rose Narciso Rodriguez | Narciso Rodriguez",
+          "url": "https://www.narcisorodriguezparfums.com/fr/narciso-rodriguez-for-her-musc-noir-rose/for-her-MUSC-NOIR-ROSE.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-095",
+      "brand": "Narciso Rodriguez",
+      "name": "Narciso Poudrée",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Talco macio, flores e madeira",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Narciso Eau de Parfum Poudrée | Narciso Rodriguez",
+          "url": "https://www.narcisorodriguezparfums.com/fr/narciso-rodriguez-narciso/Narciso-Poudree.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-096",
+      "brand": "Marc Jacobs",
+      "name": "Daisy",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Flores delicadas, morango e folhas suaves",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Daisy Eau De Toilette | Marc Jacobs | Official Site",
+          "url": "https://www.marcjacobs.com/us-en/daisy-eau-de-toilette-100-ml/31655513034-000.html?nosto=productpage-nosto-13",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-097",
+      "brand": "Marc Jacobs",
+      "name": "Daisy Eau So Fresh",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Frutas leves, flores e frescor verde",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Daisy Eau So Fresh Eau De Toilette | Marc Jacobs | Official Site",
+          "url": "https://www.marcjacobs.com/us-en/daisy-eau-so-fresh-eau-de-toilette-120-ml/3607342221208.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-098",
+      "brand": "Marc Jacobs",
+      "name": "Perfect",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores confortáveis e madeira cremosa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Perfect Eau de Parfum 50 mL | Marc Jacobs | Official Site",
+          "url": "https://www.marcjacobs.com/us-en/perfect-eau-de-parfum-50-ml/3614227086029.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-099",
+      "brand": "Marc Jacobs",
+      "name": "Daisy Love",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Frutas doces, flores e madeira macia",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 2,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Daisy Love Eau de Toilette 50 mL | Marc Jacobs | Official Site",
+          "url": "https://www.marcjacobs.com/us-en/daisy-love-eau-de-toilette-50-ml/3614225452079-000.html?nosto=cartpage-nosto-3-copy-1-fallback-nosto-1-copy-1732553198819",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-100",
+      "brand": "Marc Jacobs",
+      "name": "Daisy Dream",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Frutas suculentas, flores e leveza aquosa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 1,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Daisy Dream - Marc Jacobs Fragrances | Sephora",
+          "url": "https://www.sephora.com/product/daisy-dream-P387562?icid2=seop_8_title&skuId=1632751",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-101",
+      "brand": "Chloé",
+      "name": "Chloé",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa, flores frescas e maciez atalcada",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Chloé Eau de Parfum - Chloe | Sephora",
+          "url": "https://www.sephora.com/product/chloe-eau-de-parfum-P256308",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-102",
+      "brand": "Chloé",
+      "name": "Nomade",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Musgo terroso, flores e ameixa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 3
+      },
+      "sources": [
+        {
+          "title": "Nomade Eau de Parfum - Chloé | Sephora",
+          "url": "https://www.sephora.com/product/nomade-eau-de-parfum-P428451?icid2=&skuId=2037406",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-103",
+      "brand": "Chloé",
+      "name": "Chloé Lumineuse",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa luminosa e baunilha ambarada",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Chloe l Eau de Parfum Lumineuse for Her 50ml - Boots",
+          "url": "https://www.boots.com/chloe-l-eau-de-parfum-lumineuse-for-her-50ml-10345902",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-104",
+      "brand": "Chloé",
+      "name": "Chloé L' Intense",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa intensa, framboesa e madeira",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Chloé Chloé L’Eau De Parfum Intense | Chloé",
+          "url": "https://www.chloe.com/li/fragrance_cod31040647os.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-105",
+      "brand": "Chloé",
+      "name": "Nomade Nuit d'Égypte",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, resinas e calor doce",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Chloé Nomade Nuit D'Égypte Eau De Parfum | Chloé UK",
+          "url": "https://www.chloe.com/gb/fragrance_cod31014093qv.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-106",
+      "brand": "Hermès",
+      "name": "Terre d'Hermès",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeira seca, pedra e cítricos",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 3
+      },
+      "sources": [
+        {
+          "title": "Terre d'Hermès Eau de toilette - 100 ml | Hermès France",
+          "url": "https://www.hermes.com/fr/fr/product/terre-d-hermes-eau-de-toilette-V107188V0/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-107",
+      "brand": "Hermès",
+      "name": "Un Jardin sur le Nil",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Fruta verde, flores aquosas e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 3,
+        "Cítrico": 0,
+        "Aquático": 1,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Un Jardin sur le Nil Eau de toilette - 50 ml | Hermès France",
+          "url": "https://www.hermes.com/fr/fr/product/un-jardin-sur-le-nil-eau-de-toilette-V20397/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-108",
+      "brand": "Hermès",
+      "name": "Un Jardin en Méditerranée",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Figueira, folhas verdes e flores suaves",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 3,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Un Jardin en Méditerranée Eau de toilette - 50 ml | Hermès France",
+          "url": "https://www.hermes.com/fr/fr/product/un-jardin-en-mediterranee-eau-de-toilette-V712645/1/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-109",
+      "brand": "Hermès",
+      "name": "Twilly d'Hermès",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, gengibre e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Twilly d'Hermès Eau de parfum - 85 ml | Hermès France",
+          "url": "https://www.hermes.com/fr/fr/product/twilly-d-hermes-eau-de-parfum-V107265V0/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-110",
+      "brand": "Hermès",
+      "name": "H24",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Ervas verdes, frescor e toque mineral",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 3,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "H24 Eau de toilette - 175 ml | Hermès France",
+          "url": "https://www.hermes.com/fr/fr/product/h24-eau-de-toilette-V107334V0/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-111",
+      "brand": "Tom Ford",
+      "name": "Black Orchid",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores escuras, terra, frutas e calor doce",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 2
+      },
+      "sources": [
+        {
+          "title": "Black Orchid Eau de Parfum | TOM FORD BEAUTY",
+          "url": "https://www.tomfordbeauty.com/products/black-orchid-eau-de-parfum",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-112",
+      "brand": "Tom Ford",
+      "name": "Oud Wood",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Madeiras escuras e calor de especiarias",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Oud Wood Eau de Parfum | TOM FORD BEAUTY",
+          "url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-113",
+      "brand": "Tom Ford",
+      "name": "Tobacco Vanille",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha, cacau, frutas secas e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 1,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Tobacco Vanille Eau de Parfum | TOM FORD BEAUTY",
+          "url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-114",
+      "brand": "Tom Ford",
+      "name": "Neroli Portofino",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Cítricos luminosos, flores brancas e ervas",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Neroli Portofino Eau de Parfum | TOM FORD BEAUTY",
+          "url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum?collection=neroli-portofino&variant=53031546847445",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-115",
+      "brand": "Tom Ford",
+      "name": "Lost Cherry",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Cereja, amêndoas e madeira doce",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Lost Cherry Eau de Parfum | TOM FORD BEAUTY",
+          "url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum?dwvar_T6-LOSTCHERRY_color=OC",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-116",
+      "brand": "Jo Malone London",
+      "name": "English Pear & Freesia",
+      "concentration": "Cologne",
+      "profileSummary": "Pera, flores delicadas e fundo amadeirado",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "English Pear & Freesia Cologne | Jo Malone London | Jo Malone London",
+          "url": "https://www.jomalone.com/product/25946/12553/colognes/english-pear-freesia-cologne",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-117",
+      "brand": "Jo Malone London",
+      "name": "Wood Sage & Sea Salt",
+      "concentration": "Cologne",
+      "profileSummary": "Ar salgado, ervas e madeira mineral",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 3,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 1
+      },
+      "sources": [
+        {
+          "title": "Wood Sage & Sea Salt Collection | Jo Malone London",
+          "url": "https://www.jomalone.com/scents/woody/wood-sage-sea-salt",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-118",
+      "brand": "Jo Malone London",
+      "name": "Lime Basil & Mandarin",
+      "concentration": "Cologne",
+      "profileSummary": "Cítricos verdes, manjericão e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 3,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "The Story Of Our First Love | Jo Malone London",
+          "url": "https://www.jomalone.com/our-stories/lime-basil-mandarin",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-119",
+      "brand": "Jo Malone London",
+      "name": "Peony & Blush Suede",
+      "concentration": "Cologne",
+      "profileSummary": "Peônia, maçã e flores macias",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Peony & Blush Suede Scent Collection | Jo Malone London",
+          "url": "https://www.jomalone.com/scents/floral/peony-blush-suede",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-120",
+      "brand": "Jo Malone London",
+      "name": "Pomegranate Noir",
+      "concentration": "Cologne",
+      "profileSummary": "Frutas escuras, especiarias e madeira quente",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 3,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Pomegranate Noir Cologne | Jo Malone London",
+          "url": "https://www.jomalone.com/product/25946/9900/colognes/pomegranate-noir-cologne",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-121",
+      "brand": "Creed",
+      "name": "Aventus",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Frutas, cítricos e madeira terrosa",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 2
+      },
+      "sources": [
+        {
+          "title": "Aventus Collection",
+          "url": "https://www.creedfragrance.com/c/fragrances/aventus-collection/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-122",
+      "brand": "Creed",
+      "name": "Green Irish Tweed",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Folhas verdes, ervas e madeira fresca",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 0,
+        "Verde": 3,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Green Irish Tweed | Creed Fragrance",
+          "url": "https://www.creedfragrance.com/p/green-irish-tweed/12870035/?variation=12852870",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-123",
+      "brand": "Creed",
+      "name": "Silver Mountain Water",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Água fresca, cítricos, chá e maciez limpa",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 2,
+        "Aquático": 3,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Spotlight On Silver Mountain Water | Blog | Creed Fragrance",
+          "url": "https://www.creedfragrance.com/c/journal/silver-mountain-water/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-124",
+      "brand": "Creed",
+      "name": "Virgin Island Water",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Lima, coco e madeira suave",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Virgin Island Water | Creed Fragrance",
+          "url": "https://www.creedfragrance.com/p/virgin-island-water/12870055/",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-125",
+      "brand": "Creed",
+      "name": "Love in White",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores brancas, cítricos e madeira cremosa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Love In White | Creed Fragrance",
+          "url": "https://www.creedfragrance.com/p/love-in-white/12870039/?variation=12852889",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-126",
+      "brand": "Maison Francis Kurkdjian",
+      "name": "Baccarat Rouge 540",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Âmbar luminoso, madeira e flores",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 1,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Baccarat Rouge 540 ⋅ Eau de parfum ⋅ 2.4 fl.oz. ⋅ Maison Francis Kurkdjian",
+          "url": "https://www.franciskurkdjian.com/us-en/p/baccarat-rouge-540-eau-de-parfum-10223021.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-127",
+      "brand": "Maison Francis Kurkdjian",
+      "name": "À la rose",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosas frescas, cítricos e maciez limpa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "À la rose ⋅ Eau de parfum ⋅ 70ml ⋅ Maison Francis Kurkdjian",
+          "url": "https://www.franciskurkdjian.com/eu-fr/p/a-la-rose-eau-de-parfum-10287021.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-128",
+      "brand": "Maison Francis Kurkdjian",
+      "name": "Aqua Universalis",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Roupa limpa, cítricos e flores delicadas",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Aqua Universalis ⋅ Eau de toilette ⋅ 1.2 fl.oz. ⋅ Maison Francis Kurkdjian",
+          "url": "https://www.franciskurkdjian.com/us-en/p/aqua-universalis-eau-de-toilette-RA130381.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-129",
+      "brand": "Maison Francis Kurkdjian",
+      "name": "Gentle Fluidity Gold",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha ambarada, maciez e especiarias",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 3,
+        "Almiscarado": 2,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "gentle Fluidity ⋅ Édition Gold - Eau de parfum ⋅ 200ml ⋅ Maison Francis Kurkdjian",
+          "url": "https://www.franciskurkdjian.com/int-fr/p/gentle-fluidity-edition-gold---eau-de-parfum-RA122811.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-130",
+      "brand": "Maison Francis Kurkdjian",
+      "name": "Oud Satin Mood",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Rosa, madeira escura e baunilha quente",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "OUD satin mood ⋅ Eau de parfum ⋅ 35ml ⋅ Maison Francis Kurkdjian",
+          "url": "https://www.franciskurkdjian.com/uk-en/p/oud-satin-mood-eau-de-parfum-RA12228.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-131",
+      "brand": "Maison Margiela",
+      "name": "Replica By the Fireplace",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeira queimada, castanhas e baunilha",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "REPLICA By the Fireplace Eau de Toilette | Maison Margiela",
+          "url": "https://www.maisonmargiela-fragrances.us/fragrances/replica-by-the-fireplace/3614273744683.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-132",
+      "brand": "Maison Margiela",
+      "name": "Replica Jazz Club",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Tabaco, calor de bebida e baunilha",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 3,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "REPLICA Jazz Club EDT Cologne | Maison Margiela Official",
+          "url": "https://www.maisonmargiela-fragrances.us/en/product/484284/replica-jazz-club",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-133",
+      "brand": "Maison Margiela",
+      "name": "Replica Lazy Sunday Morning",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Lençóis limpos, flores e maciez de pele",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Replica Lazy Sunday Morning EDT | Maison Margiela Official",
+          "url": "https://www.maisonmargiela-fragrances.us/fragrances/replica-lazy-sunday-morning/3614273744706.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-134",
+      "brand": "Maison Margiela",
+      "name": "Replica Beach Walk",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Brisa de praia, coco e flores solares",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 2,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 2,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Replica Beach Walk EDT Perfume | Maison Margiela Official",
+          "url": "https://www.maisonmargiela-fragrances.us/gifts-with-purchase/step-one/replica-beach-walk/3614272348981.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-135",
+      "brand": "Maison Margiela",
+      "name": "Replica Sailing Day",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Água do mar, vento fresco e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 3,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "REPLICA Sailing Day EDT Perfume | Maison Margiela Official",
+          "url": "https://www.maisonmargiela-fragrances.us/fragrances/replica-eau-de-toilette/replica-sailing-day/MM011.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-136",
+      "brand": "Montblanc",
+      "name": "Explorer",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Cítricos, ervas e madeira terrosa",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 2
+      },
+      "sources": [
+        {
+          "title": "Montblanc Explorer Eau de Parfum Spray 60ML | The Perfume Shop",
+          "url": "https://www.theperfumeshop.com/montblanc/explorer/eau-de-parfum-spray/p/71300EDPJU?varSel=1231559",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-137",
+      "brand": "Montblanc",
+      "name": "Legend",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Lavanda, folhas e madeira macia",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 1,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 1,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 1,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "MONT BLANC LEGEND",
+          "url": "https://training.interparfums.fr/mb_legend/files/MBL_Training_Cards.pdf",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-138",
+      "brand": "Montblanc",
+      "name": "Individuel",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Ervas, especiarias e madeira adocicada",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Montblanc Individuel Eau de Toilette Spray 50ML | The Perfume Shop",
+          "url": "https://www.theperfumeshop.com/montblanc/individuel/eau-de-toilette-spray/p/71280EDTJU?varSel=1123116",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    },
+    {
+      "id": "perfume-139",
+      "brand": "Montblanc",
+      "name": "Signature",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Baunilha cremosa, flores e cítricos suaves",
+      "weights": {
+        "Amadeirado": 0,
+        "Ambarado": 1,
+        "Almiscarado": 3,
+        "Floral": 2,
+        "Gourmand": 2,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Montblanc Signature Eau de Parfum, 50 ml",
+          "url": "https://www.montblanc.com/en-sa/montblanc-signature-eau-de-parfum-50-ml-MB127067VG.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-140",
+      "brand": "Montblanc",
+      "name": "Legend Spirit",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos, água fresca e madeira limpa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 3,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Montblanc Legend Spirit",
+          "url": "https://training.interparfums.fr/mb_legend/files/MBL_Training_Cards.pdf",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-141",
+      "brand": "Lacoste",
+      "name": "L.12.12 Blanc",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Madeira clara, flores brancas e frescor",
+      "weights": {
+        "Amadeirado": 3,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 2,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 1,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Coffret L.12.12 Blanc Eau de Toilette 50ml",
+          "url": "https://www.lacoste.com/ch/fr/lacoste/homme/accessoires/parfums/LC001C09.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-142",
+      "brand": "Lacoste",
+      "name": "L.12.12 Rose",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores rosadas, frutas e cítricos",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 2,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Women's L.12.12 Rose Eau de Parfum 100ml",
+          "url": "https://www.lacoste.com/us/lacoste/women/accessories/fragrance/LC007A01.html?color=000&size=ONE",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-143",
+      "brand": "Lacoste",
+      "name": "Pour Femme",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Flores macias, madeira e leve especiaria",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 1,
+        "Floral": 3,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 1,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Lacoste Pour Femme Eau de Parfum 90ml",
+          "url": "https://www.lacoste.com/fr/lacoste/femme/accessoires/parfums/LC014A01.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-144",
+      "brand": "Lacoste",
+      "name": "Touch of Pink",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Laranja, jasmim e madeira cremosa",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 3,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Women's Lacoste Touch of Pink Eau De Toilette 90ml",
+          "url": "https://www.lacoste.com/us/lacoste/women/accessories/fragrance/LC015A01.html",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-145",
+      "brand": "Lacoste",
+      "name": "Essential",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Folhas verdes, ervas e frescor aquoso",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 3,
+        "Cítrico": 1,
+        "Aquático": 1,
+        "Aromático": 2,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Lacoste Essential Eau de Toilette 75ml",
+          "url": "https://www.lacoste.com/ch/en/lacoste/men/accessories/fragrance/LC011A02.html?color=000&size=ONE",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-146",
+      "brand": "Azzaro",
+      "name": "Pour Homme",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Ervas clássicas, especiarias e madeira",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 1,
+        "Aquático": 0,
+        "Aromático": 3,
+        "Frutado": 0,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Parfum AZZARO Pour Homme ⋅ AZZARO",
+          "url": "https://www.azzaro.com/fr/parfums/azzaro-pour-homme",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-147",
+      "brand": "Azzaro",
+      "name": "Chrome",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Cítricos, frescor aquoso e limpeza macia",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 0,
+        "Almiscarado": 2,
+        "Floral": 0,
+        "Gourmand": 0,
+        "Verde": 0,
+        "Cítrico": 3,
+        "Aquático": 2,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 0,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Cologne for Men - Azzaro Chrome - Eau de Toilette",
+          "url": "https://www.azzaro.com/en/fragrances/azzaro-chrome/eau-de-toilette",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-148",
+      "brand": "Azzaro",
+      "name": "Wanted",
+      "concentration": "Eau de Toilette",
+      "profileSummary": "Especiarias, limão e madeira adocicada",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 0,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 2,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 3,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Azzaro Wanted • Parfum Homme • Azzaro",
+          "url": "https://www.azzaro.com/en/fragrances/azzaro-wanted",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-149",
+      "brand": "Azzaro",
+      "name": "Wanted by Night",
+      "concentration": "Eau de Parfum",
+      "profileSummary": "Canela, madeira e calor ambarado",
+      "weights": {
+        "Amadeirado": 2,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 1,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 3,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "Eau de Parfum - Azzaro Wanted by Night - Perfume for Men",
+          "url": "https://www.azzaro.com/en/fragrances/azzaro-wanted-by-night/eau-de-parfum",
+          "accessedAt": "2026-10-15",
+          "type": "brand"
+        }
+      ]
+    },
+    {
+      "id": "perfume-150",
+      "brand": "Azzaro",
+      "name": "The Most Wanted",
+      "concentration": "Parfum",
+      "profileSummary": "Baunilha quente, gengibre e madeira",
+      "weights": {
+        "Amadeirado": 1,
+        "Ambarado": 2,
+        "Almiscarado": 0,
+        "Floral": 0,
+        "Gourmand": 3,
+        "Verde": 0,
+        "Cítrico": 0,
+        "Aquático": 0,
+        "Aromático": 0,
+        "Frutado": 0,
+        "Especiado": 2,
+        "Terroso": 0
+      },
+      "sources": [
+        {
+          "title": "The Most Wanted Parfum with Bourbon Vanilla & Red Ginger - Azzaro | Sephora",
+          "url": "https://www.sephora.com/product/the-most-wanted-parfum-P503815",
+          "accessedAt": "2026-10-15",
+          "type": "retailer"
+        }
+      ]
+    }
+  ]
+}

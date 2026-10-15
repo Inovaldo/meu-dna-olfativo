@@ -1,0 +1,5 @@
+# Copy to android/key.properties, which is ignored by Git.
+storeFile=C:/private/dna-olfativo-upload.jks
+storePassword=REPLACE_LOCALLY
+keyAlias=upload
+keyPassword=REPLACE_LOCALLY
